@@ -1,0 +1,4 @@
+cmd_backup
+cmd_backup
+cmd_restore 1234.tgz
+cmd_backup
