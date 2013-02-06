@@ -5,6 +5,7 @@ GEM
     eventmachine (1.0.0)
     eventmachine-tail (0.6.4)
       eventmachine
+    mcwrapper (1.6.3)
 
 PLATFORMS
   ruby
@@ -12,3 +13,4 @@ PLATFORMS
 DEPENDENCIES
   daemons
   eventmachine-tail
+  mcwrapper (~> 1.6.3)
